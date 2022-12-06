@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @umerstack
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning C Language and Web Development
+- 🌱 Beginner Game Dev :)
 - 📫 How to reach me Just Dm Me 
 - 
 -- Follow Me For More Tutorials And Source Codes
